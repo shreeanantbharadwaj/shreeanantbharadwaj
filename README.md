@@ -2,12 +2,15 @@
 # Shreeanant Bharadwaj
 
 👋 Hi there, I'm Shreeanant Bharadwaj!
-![image](https://github.com/shreeanantbharadwaj/readme_bio/assets/144931868/f56bdc51-9902-4ada-adf6-9b57d264d500)
-
 
 🎓 Currently pursuing a Master of Science in Information System Program at Northeastern University in Boston, MA. Expected graduation: May 2025.
 
 🔬 Passionate about exploring the realms of machine learning, deep learning, and various related topics to unravel the potential of artificial intelligence.
+
+
+![image](https://github.com/shreeanantbharadwaj/readme_bio/assets/144931868/f56bdc51-9902-4ada-adf6-9b57d264d500)
+
+
 
 🌱 Currently delving into the realms of Data Science Engineering Methods and Tools, and Data management and database design.
 
