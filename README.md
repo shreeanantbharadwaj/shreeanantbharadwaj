@@ -18,6 +18,6 @@
 
 💬 Ask me about how I utilize my diverse skill set to tackle complex problems using machine learning and deep learning techniques.
 
-📧 You can reach out to me via email at bharadwaj.shr@northeastern.edu or connect with me on LinkedIn: [Your LinkedIn profile link here]
+📧 You can reach out to me via email at bharadwaj.shr@northeastern.edu or connect with me on LinkedIn: https://www.linkedin.com/in/shreeanant-bharadwaj-b40604222/
 
 ⚡ Fun fact: Did you know that machine learning algorithms can be trained to generate entirely new pieces of art, music, and even recipes, demonstrating the creative potential of AI?
