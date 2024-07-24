@@ -12,7 +12,7 @@
 
 
 
-🌱 Currently delving into the realms of Data Science Engineering Methods and Tools, and Data management and database design.
+🌱 Currently delving into the realms of Advance Data Science Engineering Methods and Tools, and Neural Networks.
 
 🤝 Open to collaborations on projects related to machine learning, deep learning, and data analysis.
 
