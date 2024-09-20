@@ -3,7 +3,7 @@
 
 👋 Hi there, I'm Shreeanant Bharadwaj!
 
-🎓 Currently pursuing a Master of Science in Information System Program at Northeastern University in Boston, MA. Expected graduation: May 2025.
+🎓 Currently pursuing a Master of Science in Information System Program at Northeastern University in Boston, MA.
 
 🔬 Passionate about exploring the realms of machine learning, deep learning, and various related topics to unravel the potential of artificial intelligence.
 
